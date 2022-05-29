@@ -1,6 +1,6 @@
 # demo-vulnerable-webserver
 
-1- git clone https://github.com/andrefernandes86/demo-vulnerable-webserver.git
+git clone https://github.com/andrefernandes86/demo-vulnerable-webserver.git
 
 cd demo-vulnerable-webserver
 
