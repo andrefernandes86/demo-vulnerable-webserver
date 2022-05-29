@@ -6,4 +6,4 @@ cd demo-vulnerable-webserver
 
 docker build -t webserver .
 
-docker run --rm -d -p 80:80 webserver
+docker run --rm -d --name webserver -p 80:80 webserver
